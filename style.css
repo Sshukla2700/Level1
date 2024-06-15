@@ -1,0 +1,66 @@
+body{
+    margin: 2px;
+}
+.logo{
+    font-size: 3rem;            
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    margin: 7px;
+}
+ul{
+    display: flex;            
+}
+li{
+    padding: 19px;
+    list-style-type:none;
+}
+a{
+    text-decoration: none;
+    color:#000;
+}
+#sec1,#sec2{
+    width: 100%;
+    height: 60vh;
+    text-align: center;
+    padding: 4rem 0px;
+   
+
+    font-size: 1rem;
+    background-color: rgba(126, 245, 22, 0.712);     
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Arial, Helvetica, sans-serif, monospace;
+
+}
+.scroll{
+    margin-top: 15%;
+
+}
+.para{
+    margin: 0 15rem;
+}
+#sec2{
+    background-color: #fff;
+    color: #000;
+    height: 80vh;    
+}
+#sec3{
+    color:#000;
+    background-color: rgb(164, 175, 215);
+    padding: 50px;
+    
+    
+}
+.form_title{
+    text-align: center;
+
+}
+form{
+    background-color: #fff;
+    border-radius: 50px;
+    padding: 20px;
+    width:250px;
+    margin: 5px auto;
+
+}
